@@ -1,0 +1,11 @@
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\bin\Debug\netcoreapp3.1\Snake_And_Ladder.exe
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\bin\Debug\netcoreapp3.1\Snake_And_Ladder.deps.json
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\bin\Debug\netcoreapp3.1\Snake_And_Ladder.runtimeconfig.json
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\bin\Debug\netcoreapp3.1\Snake_And_Ladder.runtimeconfig.dev.json
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\bin\Debug\netcoreapp3.1\Snake_And_Ladder.dll
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\bin\Debug\netcoreapp3.1\Snake_And_Ladder.pdb
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\obj\Debug\netcoreapp3.1\Snake_And_Ladder.csprojAssemblyReference.cache
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\obj\Debug\netcoreapp3.1\Snake_And_Ladder.AssemblyInfoInputs.cache
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\obj\Debug\netcoreapp3.1\Snake_And_Ladder.AssemblyInfo.cs
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\obj\Debug\netcoreapp3.1\Snake_And_Ladder.dll
+C:\Work\asp mvc apps\CRUD\SnakeAndLadder\Snake_And_Ladder\Snake_And_Ladder\obj\Debug\netcoreapp3.1\Snake_And_Ladder.pdb
